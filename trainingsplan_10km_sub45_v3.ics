@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//10km Sub-45 Trainingsplan v5//NL
+PRODID:-//10km Sub-45 Trainingsplan v8//NL
 CALSCALE:GREGORIAN
 X-WR-CALNAME:10km Sub-45 Trainingsplan
 X-WR-CALDESC:Post-Marathon opbouw naar sub-45 10km op 6 september 2026
 BEGIN:VEVENT
-UID:10km-sub45-v5-001@trainingsplan
+UID:10km-sub45-v8-001@trainingsplan
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260413
 SUMMARY:Rust
@@ -13,7 +13,7 @@ DESCRIPTION:Geen sport. Wandelen mag - 20-30 min rustig.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-002@trainingsplan
+UID:10km-sub45-v8-002@trainingsplan
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260414
 SUMMARY:Mobiliteit gym
@@ -21,7 +21,7 @@ DESCRIPTION:Alleen mobiliteit en lichte core. Geen beenwerk.\nHeupbuiger stretch
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-003@trainingsplan
+UID:10km-sub45-v8-003@trainingsplan
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260415
 SUMMARY:Rust / wandelen
@@ -29,7 +29,7 @@ DESCRIPTION:Rustige wandeling 20-30 min. Geen loopschoenen.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-004@trainingsplan
+UID:10km-sub45-v8-004@trainingsplan
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260416
 SUMMARY:Mobiliteit gym
@@ -37,7 +37,7 @@ DESCRIPTION:Zelfde als dinsdag. Focus op heup en hamstrings.\n30 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-005@trainingsplan
+UID:10km-sub45-v8-005@trainingsplan
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260417
 SUMMARY:Rust
@@ -45,7 +45,7 @@ DESCRIPTION:Volledig rust.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-006@trainingsplan
+UID:10km-sub45-v8-006@trainingsplan
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260418
 SUMMARY:Rust
@@ -53,7 +53,7 @@ DESCRIPTION:Volledig rust.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-007@trainingsplan
+UID:10km-sub45-v8-007@trainingsplan
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260419
 SUMMARY:Wandeling
@@ -61,7 +61,7 @@ DESCRIPTION:30-45 min wandelen. Geen druk.
 CATEGORIES:Walk
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-008@trainingsplan
+UID:10km-sub45-v8-008@trainingsplan
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260420
 SUMMARY:Eerste loopje
@@ -69,7 +69,7 @@ DESCRIPTION:Warm-up\n- 20m Z1 Pace\n\nZeer rustig. Onder 145 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-009@trainingsplan
+UID:10km-sub45-v8-009@trainingsplan
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260421
 SUMMARY:Gym licht
@@ -77,15 +77,15 @@ DESCRIPTION:Upper body + core only. Geen beenwerk. Mobiliteit heup.\n45 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-010@trainingsplan
+UID:10km-sub45-v8-010@trainingsplan
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260422
 SUMMARY:Easy loopje
-DESCRIPTION:Warm-up\n- 25m Z2 Pace\n\nOnder 150 bpm.
+DESCRIPTION:Warm-up\n- 25m Z2 Pace\n\nZone 1-2\, tot 159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-011@trainingsplan
+UID:10km-sub45-v8-011@trainingsplan
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260423
 SUMMARY:Gym licht
@@ -93,15 +93,15 @@ DESCRIPTION:Upper body + core. Eerste beenwerk: glute bridges 2x15\, heupabducti
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-012@trainingsplan
+UID:10km-sub45-v8-012@trainingsplan
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260424
 SUMMARY:Easy loopje
-DESCRIPTION:Warm-up\n- 25m Z2 Pace\n\nOnder 150 bpm.
+DESCRIPTION:Warm-up\n- 25m Z2 Pace\n\nZone 1-2\, tot 159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-013@trainingsplan
+UID:10km-sub45-v8-013@trainingsplan
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260425
 SUMMARY:Rust
@@ -109,23 +109,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-014@trainingsplan
+UID:10km-sub45-v8-014@trainingsplan
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260426
 SUMMARY:Lange easy run
-DESCRIPTION:Warm-up\n- 38m Z2 Pace\n\nOnder 150 bpm. Geen tempo.
+DESCRIPTION:Warm-up\n- 38m Z2 Pace\n\nZone 2\, 151-159 bpm. Geen tempo.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-015@trainingsplan
+UID:10km-sub45-v8-015@trainingsplan
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260427
 SUMMARY:Recovery run
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nOnder 150 bpm.
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nOnder 150 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-016@trainingsplan
+UID:10km-sub45-v8-016@trainingsplan
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260428
 SUMMARY:Gym matig
@@ -133,15 +133,15 @@ DESCRIPTION:Full body. Glute bridges 3x15\, heupabductie 3x15\, Bulgarian split 
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-017@trainingsplan
+UID:10km-sub45-v8-017@trainingsplan
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260429
 SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 35m Z2 Pace\n\nOnder 150 bpm.
+DESCRIPTION:Warm-up\n- 35m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-018@trainingsplan
+UID:10km-sub45-v8-018@trainingsplan
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260430
 SUMMARY:Gym matig
@@ -149,15 +149,15 @@ DESCRIPTION:Zelfde als dinsdag. Voeg toe: step-ups 2x10 per been.\n45-60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-019@trainingsplan
+UID:10km-sub45-v8-019@trainingsplan
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260501
 SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 35m Z2 Pace\n\nOnder 150 bpm.
+DESCRIPTION:Warm-up\n- 35m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-020@trainingsplan
+UID:10km-sub45-v8-020@trainingsplan
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260502
 SUMMARY:Rust
@@ -165,23 +165,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-021@trainingsplan
+UID:10km-sub45-v8-021@trainingsplan
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260503
 SUMMARY:Lange easy run
-DESCRIPTION:Warm-up\n- 53m Z2 Pace\n\nOnder 155 bpm.
+DESCRIPTION:Warm-up\n- 53m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-022@trainingsplan
+UID:10km-sub45-v8-022@trainingsplan
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260504
 SUMMARY:Recovery run
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nOnder 150 bpm.
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nOnder 150 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-023@trainingsplan
+UID:10km-sub45-v8-023@trainingsplan
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260505
 SUMMARY:Gym normaal
@@ -189,7 +189,7 @@ DESCRIPTION:Full body. Bulgarian split squat 3x12\, step-ups 3x12\, glute bridge
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-024@trainingsplan
+UID:10km-sub45-v8-024@trainingsplan
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260506
 SUMMARY:Eerste drempel
@@ -197,7 +197,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nDrempel\n- 15m Z4 Pace\n\nCool-down\n- 10m
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-025@trainingsplan
+UID:10km-sub45-v8-025@trainingsplan
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260507
 SUMMARY:Gym normaal
@@ -205,7 +205,7 @@ DESCRIPTION:Zelfde als dinsdag.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-026@trainingsplan
+UID:10km-sub45-v8-026@trainingsplan
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260508
 SUMMARY:Easy run
@@ -213,7 +213,7 @@ DESCRIPTION:Warm-up\n- 40m Z2 Pace\n\nOnder 150 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-027@trainingsplan
+UID:10km-sub45-v8-027@trainingsplan
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260509
 SUMMARY:Rust
@@ -221,23 +221,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-028@trainingsplan
+UID:10km-sub45-v8-028@trainingsplan
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260510
 SUMMARY:Lange easy run
-DESCRIPTION:Warm-up\n- 65m Z2 Pace\n\nOnder 157 bpm. Optioneel: 1x10 min @ 5:00/km als alles goed voelt.
+DESCRIPTION:Warm-up\n- 65m Z2 Pace\n\nZone 2\, 151-159 bpm. Optioneel: 1x10 min @ 5:00/km als alles goed voelt.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-029@trainingsplan
+UID:10km-sub45-v8-029@trainingsplan
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260511
 SUMMARY:Recovery run
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nOnder 150 bpm.
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nOnder 150 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-030@trainingsplan
+UID:10km-sub45-v8-030@trainingsplan
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260512
 SUMMARY:Gym
@@ -245,7 +245,7 @@ DESCRIPTION:Full body. Bulgarian split squat 3x12\, step-ups 3x12\, glute bridge
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-031@trainingsplan
+UID:10km-sub45-v8-031@trainingsplan
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260513
 SUMMARY:Tempoloop
@@ -253,7 +253,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo 2x\n- 10m 5:35-5:25/km Pace\n- 2m Z2
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-032@trainingsplan
+UID:10km-sub45-v8-032@trainingsplan
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260514
 SUMMARY:Gym
@@ -261,15 +261,15 @@ DESCRIPTION:Zelfde als dinsdag.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-033@trainingsplan
+UID:10km-sub45-v8-033@trainingsplan
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260515
 SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 45m Z2 Pace
+DESCRIPTION:Warm-up\n- 45m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-034@trainingsplan
+UID:10km-sub45-v8-034@trainingsplan
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260516
 SUMMARY:Rust
@@ -277,23 +277,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-035@trainingsplan
+UID:10km-sub45-v8-035@trainingsplan
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260517
 SUMMARY:Lange duurloop
-DESCRIPTION:Warm-up\n- 70m Z2 Pace\n\nOnder 155 bpm.
+DESCRIPTION:Warm-up\n- 70m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-036@trainingsplan
+UID:10km-sub45-v8-036@trainingsplan
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260518
 SUMMARY:Recovery run
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nOnder 150 bpm.
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nOnder 150 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-037@trainingsplan
+UID:10km-sub45-v8-037@trainingsplan
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260519
 SUMMARY:Gym
@@ -301,7 +301,7 @@ DESCRIPTION:Full body. Progressie gewichten single-leg.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-038@trainingsplan
+UID:10km-sub45-v8-038@trainingsplan
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260520
 SUMMARY:Tempoloop
@@ -309,7 +309,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo 3x\n- 8m 5:30-5:20/km Pace\n- 2m Z2 
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-039@trainingsplan
+UID:10km-sub45-v8-039@trainingsplan
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260521
 SUMMARY:Gym
@@ -317,15 +317,15 @@ DESCRIPTION:Zelfde als dinsdag.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-040@trainingsplan
+UID:10km-sub45-v8-040@trainingsplan
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260522
 SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 50m Z2 Pace
+DESCRIPTION:Warm-up\n- 50m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-041@trainingsplan
+UID:10km-sub45-v8-041@trainingsplan
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260523
 SUMMARY:Rust
@@ -333,23 +333,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-042@trainingsplan
+UID:10km-sub45-v8-042@trainingsplan
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260524
 SUMMARY:Lange duurloop
-DESCRIPTION:Warm-up\n- 75m Z2 Pace\n\nOnder 157 bpm.
+DESCRIPTION:Warm-up\n- 75m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-043@trainingsplan
+UID:10km-sub45-v8-043@trainingsplan
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260525
 SUMMARY:Recovery run
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nOnder 150 bpm.
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nOnder 150 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-044@trainingsplan
+UID:10km-sub45-v8-044@trainingsplan
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260526
 SUMMARY:Gym
@@ -357,15 +357,15 @@ DESCRIPTION:Full body. Progressie op gewichten.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-045@trainingsplan
+UID:10km-sub45-v8-045@trainingsplan
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260527
-SUMMARY:Tempoloop
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo aaneengesloten\n- 25m 5:30-5:20/km Pace\n\nCool-down\n- 10m Z2 Pace\n\n163-168 bpm.
+SUMMARY:Brug-sessie
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 5x\n- 3m 4:50-4:45/km Pace\n- 2m Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\nZone 4\, 168-178 bpm. Overgang van tempo naar intervallen.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-046@trainingsplan
+UID:10km-sub45-v8-046@trainingsplan
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260528
 SUMMARY:Gym
@@ -373,15 +373,15 @@ DESCRIPTION:Zelfde als dinsdag.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-047@trainingsplan
+UID:10km-sub45-v8-047@trainingsplan
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260529
 SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 50m Z2 Pace
+DESCRIPTION:Warm-up\n- 50m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-048@trainingsplan
+UID:10km-sub45-v8-048@trainingsplan
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260530
 SUMMARY:Rust
@@ -389,23 +389,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-049@trainingsplan
+UID:10km-sub45-v8-049@trainingsplan
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260531
 SUMMARY:Lange duurloop
-DESCRIPTION:Warm-up\n- 65m Z2 Pace\n\nOptioneel tempo blok\n- 15m 5:00/km Pace\n\nUitlopen\n- 10m Z2 Pace
+DESCRIPTION:Warm-up\n- 65m Z2 Pace\n\nOptioneel tempo blok\n- 15m 5:00/km Pace\n\nUitlopen\n- 10m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-050@trainingsplan
+UID:10km-sub45-v8-050@trainingsplan
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260601
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace\n\nNa de easy run. Strides op 10km pace.
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace\n\nNa de easy run. Strides op 10km pace.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-051@trainingsplan
+UID:10km-sub45-v8-051@trainingsplan
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260602
 SUMMARY:Gym
@@ -413,15 +413,15 @@ DESCRIPTION:Full body. Progressie single-leg.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-052@trainingsplan
+UID:10km-sub45-v8-052@trainingsplan
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260603
 SUMMARY:Eerste intervallen
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 4x\n- 5m 4:40-4:30/km Pace\n- 2m Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n178+ bpm tijdens intervallen.
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 4x\n- 5m 4:40-4:30/km Pace\n- 2m Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\nZone 5\, 178+ bpm tijdens intervallen.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-053@trainingsplan
+UID:10km-sub45-v8-053@trainingsplan
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260604
 SUMMARY:Gym
@@ -429,15 +429,15 @@ DESCRIPTION:Zelfde als dinsdag.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-054@trainingsplan
+UID:10km-sub45-v8-054@trainingsplan
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260605
 SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 50m Z2 Pace
+DESCRIPTION:Warm-up\n- 50m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-055@trainingsplan
+UID:10km-sub45-v8-055@trainingsplan
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260606
 SUMMARY:Rust
@@ -445,23 +445,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-056@trainingsplan
+UID:10km-sub45-v8-056@trainingsplan
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260607
 SUMMARY:Lange duurloop
-DESCRIPTION:Warm-up\n- 50m Z2 Pace\n\nMarathontempo blok\n- 15m 5:00/km Pace\n\nUitlopen\n- 15m Z2 Pace
+DESCRIPTION:Warm-up\n- 50m Z2 Pace\n\nMarathontempo blok\n- 15m 5:00/km Pace\n\nUitlopen\n- 15m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-057@trainingsplan
+UID:10km-sub45-v8-057@trainingsplan
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260608
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-058@trainingsplan
+UID:10km-sub45-v8-058@trainingsplan
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260609
 SUMMARY:Gym
@@ -469,15 +469,15 @@ DESCRIPTION:Full body. Explosiviteit: jump squats 3x8\, Bulgarian split squat 4x
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-059@trainingsplan
+UID:10km-sub45-v8-059@trainingsplan
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260610
 SUMMARY:Intervallen
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 5x\n- 5m 4:35-4:25/km Pace\n- 90s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n178+ bpm tijdens intervallen.
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 5x\n- 5m 4:35-4:25/km Pace\n- 90s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\nZone 5\, 178+ bpm tijdens intervallen.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-060@trainingsplan
+UID:10km-sub45-v8-060@trainingsplan
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260611
 SUMMARY:Gym
@@ -485,7 +485,7 @@ DESCRIPTION:Zelfde als dinsdag.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-061@trainingsplan
+UID:10km-sub45-v8-061@trainingsplan
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260612
 SUMMARY:Tempoloop
@@ -493,7 +493,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo\n- 20m 4:50-4:40/km Pace\n\nCool-dow
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-062@trainingsplan
+UID:10km-sub45-v8-062@trainingsplan
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260613
 SUMMARY:Rust
@@ -501,23 +501,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-063@trainingsplan
+UID:10km-sub45-v8-063@trainingsplan
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260614
 SUMMARY:Lange duurloop
-DESCRIPTION:Warm-up\n- 85m Z2 Pace\n\nOnder 157 bpm.
+DESCRIPTION:Warm-up\n- 85m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-064@trainingsplan
+UID:10km-sub45-v8-064@trainingsplan
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260615
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-065@trainingsplan
+UID:10km-sub45-v8-065@trainingsplan
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260616
 SUMMARY:Gym
@@ -525,7 +525,7 @@ DESCRIPTION:Full body. Progressie gewichten.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-066@trainingsplan
+UID:10km-sub45-v8-066@trainingsplan
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260617
 SUMMARY:Intervallen
@@ -533,7 +533,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 6x\n- 4m 4:30-4:20/km Pace\n- 
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-067@trainingsplan
+UID:10km-sub45-v8-067@trainingsplan
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260618
 SUMMARY:Gym
@@ -541,7 +541,7 @@ DESCRIPTION:Zelfde als dinsdag.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-068@trainingsplan
+UID:10km-sub45-v8-068@trainingsplan
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260619
 SUMMARY:Tempoloop
@@ -549,7 +549,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo\n- 25m 4:45-4:40/km Pace\n\nCool-dow
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-069@trainingsplan
+UID:10km-sub45-v8-069@trainingsplan
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260620
 SUMMARY:Rust
@@ -557,7 +557,7 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-070@trainingsplan
+UID:10km-sub45-v8-070@trainingsplan
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260621
 SUMMARY:Lange duurloop
@@ -565,15 +565,15 @@ DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nTempo blokken 2x\n- 10m 4:50/km Pace\n- 5m
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-071@trainingsplan
+UID:10km-sub45-v8-071@trainingsplan
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260622
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 25m Z2 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
+DESCRIPTION:Warm-up\n- 25m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-072@trainingsplan
+UID:10km-sub45-v8-072@trainingsplan
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260623
 SUMMARY:Gym licht
@@ -581,7 +581,7 @@ DESCRIPTION:Lichte versie. Geen zware benen voor de testrace.\n45 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-073@trainingsplan
+UID:10km-sub45-v8-073@trainingsplan
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260624
 SUMMARY:Activatie
@@ -589,7 +589,7 @@ DESCRIPTION:Warm-up\n- 20m Z2 Pace\n\nStrides 6x\n- 30s 4:30-4:25/km Pace\n- 90s
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-074@trainingsplan
+UID:10km-sub45-v8-074@trainingsplan
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260625
 SUMMARY:Rust
@@ -597,15 +597,15 @@ DESCRIPTION:Volledig rust. Voorbereiding 5km testrace.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-075@trainingsplan
+UID:10km-sub45-v8-075@trainingsplan
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260626
 SUMMARY:5KM TESTRACE
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\n5km race\n- 25m 4:30-4:20/km Pace\n\nCool-down\n- 10m Z2 Pace\n\nOfficieel of gesimuleerde 5km time trial. Alles geven. Dit is je meting voor sub-45 prognose.
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\n5km race\n- 25m 4:30-4:20/km Pace\n\nCool-down\n- 10m Z2 Pace\n\nOfficieel of gesimuleerde 5km time trial. Alles geven. Riegel-voorspelling voor 10km prognose.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-076@trainingsplan
+UID:10km-sub45-v8-076@trainingsplan
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260627
 SUMMARY:Rust
@@ -613,7 +613,7 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-077@trainingsplan
+UID:10km-sub45-v8-077@trainingsplan
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260628
 SUMMARY:Easy run
@@ -621,15 +621,15 @@ DESCRIPTION:Warm-up\n- 40m Z2 Pace\n\nHerstel na testrace. Rustig.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-078@trainingsplan
+UID:10km-sub45-v8-078@trainingsplan
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260629
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-079@trainingsplan
+UID:10km-sub45-v8-079@trainingsplan
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260630
 SUMMARY:Gym
@@ -637,15 +637,15 @@ DESCRIPTION:Full body. Progressie single-leg.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-080@trainingsplan
+UID:10km-sub45-v8-080@trainingsplan
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260701
 SUMMARY:Intervallen
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 5x\n- 5m 4:25-4:15/km Pace\n- 90s Z2 Pace\n\nCool-down\n- 10m Z2 Pace
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 5x\n- 5m 4:25-4:15/km Pace\n- 90s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n5x1 km @ 4:15-4:25/km.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-081@trainingsplan
+UID:10km-sub45-v8-081@trainingsplan
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260702
 SUMMARY:Gym
@@ -653,7 +653,7 @@ DESCRIPTION:Zelfde als dinsdag.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-082@trainingsplan
+UID:10km-sub45-v8-082@trainingsplan
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260703
 SUMMARY:Tempoloop
@@ -661,7 +661,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo\n- 30m 4:45-4:35/km Pace\n\nCool-dow
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-083@trainingsplan
+UID:10km-sub45-v8-083@trainingsplan
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260704
 SUMMARY:Rust
@@ -669,7 +669,7 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-084@trainingsplan
+UID:10km-sub45-v8-084@trainingsplan
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260705
 SUMMARY:Lange duurloop
@@ -677,15 +677,15 @@ DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nTempo blokken 2x\n- 10m 4:45/km Pace\n- 5m
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-085@trainingsplan
+UID:10km-sub45-v8-085@trainingsplan
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260706
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-086@trainingsplan
+UID:10km-sub45-v8-086@trainingsplan
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260707
 SUMMARY:Gym
@@ -693,15 +693,15 @@ DESCRIPTION:Full body kracht.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-087@trainingsplan
+UID:10km-sub45-v8-087@trainingsplan
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260708
 SUMMARY:Intervallen
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 4x\n- 7m 4:30-4:20/km Pace\n- 2m Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n1.5 km per interval @ 4:20-4:30/km.
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 4x\n- 7m 4:30-4:20/km Pace\n- 2m Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n4x1.5 km @ 4:20-4:30/km.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-088@trainingsplan
+UID:10km-sub45-v8-088@trainingsplan
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260709
 SUMMARY:Gym
@@ -709,7 +709,7 @@ DESCRIPTION:Zelfde als dinsdag.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-089@trainingsplan
+UID:10km-sub45-v8-089@trainingsplan
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260710
 SUMMARY:Tempoloop
@@ -717,7 +717,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo\n- 35m 4:42-4:35/km Pace\n\nCool-dow
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-090@trainingsplan
+UID:10km-sub45-v8-090@trainingsplan
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260711
 SUMMARY:Rust
@@ -725,23 +725,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-091@trainingsplan
+UID:10km-sub45-v8-091@trainingsplan
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260712
 SUMMARY:Lange duurloop
-DESCRIPTION:Warm-up\n- 35m Z2 Pace\n\nTempo blok\n- 20m 4:50/km Pace\n\nUitlopen\n- 35m Z2 Pace
+DESCRIPTION:Warm-up\n- 35m Z2 Pace\n\nTempo blok\n- 20m 4:50/km Pace\n\nUitlopen\n- 35m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-092@trainingsplan
+UID:10km-sub45-v8-092@trainingsplan
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260713
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 25m Z2 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
+DESCRIPTION:Warm-up\n- 25m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-093@trainingsplan
+UID:10km-sub45-v8-093@trainingsplan
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260714
 SUMMARY:Gym licht
@@ -749,15 +749,15 @@ DESCRIPTION:Lichte versie.\n45 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-094@trainingsplan
+UID:10km-sub45-v8-094@trainingsplan
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260715
 SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 40m Z2 Pace\n\nGeen tempo.
+DESCRIPTION:Warm-up\n- 40m Z2 Pace\n\nZone 1-2\, tot 159 bpm. Geen tempo.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-095@trainingsplan
+UID:10km-sub45-v8-095@trainingsplan
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260716
 SUMMARY:Gym licht
@@ -765,15 +765,15 @@ DESCRIPTION:Zelfde als dinsdag.\n45 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-096@trainingsplan
+UID:10km-sub45-v8-096@trainingsplan
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260717
 SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 35m Z2 Pace
+DESCRIPTION:Warm-up\n- 35m Z2 Pace\n\nZone 1-2\, tot 159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-097@trainingsplan
+UID:10km-sub45-v8-097@trainingsplan
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260718
 SUMMARY:Rust
@@ -781,23 +781,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-098@trainingsplan
+UID:10km-sub45-v8-098@trainingsplan
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260719
 SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 55m Z2 Pace
+DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-099@trainingsplan
+UID:10km-sub45-v8-099@trainingsplan
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260720
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nStrides 8x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace\n\nStrides iets sneller dan fase 3.
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 8x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace\n\nStrides iets sneller dan fase 3.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-100@trainingsplan
+UID:10km-sub45-v8-100@trainingsplan
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260721
 SUMMARY:Gym
@@ -805,7 +805,7 @@ DESCRIPTION:Full body maar iets lichter. Focus kracht\, niet spiermoeheid.\n50 m
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-101@trainingsplan
+UID:10km-sub45-v8-101@trainingsplan
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260722
 SUMMARY:10km simulatie
@@ -813,7 +813,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nRace pace 3x\n- 10m 4:30-4:25/km Pace\n- 2
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-102@trainingsplan
+UID:10km-sub45-v8-102@trainingsplan
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260723
 SUMMARY:Gym
@@ -821,7 +821,7 @@ DESCRIPTION:Zelfde als dinsdag.\n50 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-103@trainingsplan
+UID:10km-sub45-v8-103@trainingsplan
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260724
 SUMMARY:Tempoloop
@@ -829,7 +829,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo\n- 20m 4:35-4:30/km Pace\n\nCool-dow
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-104@trainingsplan
+UID:10km-sub45-v8-104@trainingsplan
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260725
 SUMMARY:Rust
@@ -837,23 +837,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-105@trainingsplan
+UID:10km-sub45-v8-105@trainingsplan
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260726
 SUMMARY:Lange duurloop
-DESCRIPTION:Warm-up\n- 85m Z2 Pace
+DESCRIPTION:Warm-up\n- 85m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-106@trainingsplan
+UID:10km-sub45-v8-106@trainingsplan
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260727
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nStrides 8x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 8x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-107@trainingsplan
+UID:10km-sub45-v8-107@trainingsplan
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260728
 SUMMARY:Gym
@@ -861,15 +861,15 @@ DESCRIPTION:Full body licht.\n50 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-108@trainingsplan
+UID:10km-sub45-v8-108@trainingsplan
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260729
 SUMMARY:10km simulatie
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\n6km race simulatie\n- 35m 4:30-4:25/km Pace\n\nCool-down\n- 10m Z2 Pace\n\n6 km aaneengesloten @ 4:25-4:30/km. Simuleer race omstandigheden.
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\n6km race simulatie\n- 35m 4:30-4:25/km Pace\n\nCool-down\n- 10m Z2 Pace\n\n6 km aaneengesloten @ 4:25-4:30/km. Simuleer race-omstandigheden.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-109@trainingsplan
+UID:10km-sub45-v8-109@trainingsplan
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260730
 SUMMARY:Gym
@@ -877,7 +877,7 @@ DESCRIPTION:Zelfde als dinsdag.\n50 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-110@trainingsplan
+UID:10km-sub45-v8-110@trainingsplan
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260731
 SUMMARY:Intervallen
@@ -885,7 +885,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 8x\n- 3m 4:20-4:10/km Pace\n- 
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-111@trainingsplan
+UID:10km-sub45-v8-111@trainingsplan
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260801
 SUMMARY:Rust
@@ -893,23 +893,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-112@trainingsplan
+UID:10km-sub45-v8-112@trainingsplan
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260802
 SUMMARY:Lange duurloop
-DESCRIPTION:Warm-up\n- 85m Z2 Pace
+DESCRIPTION:Warm-up\n- 85m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-113@trainingsplan
+UID:10km-sub45-v8-113@trainingsplan
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260803
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nStrides 8x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 8x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-114@trainingsplan
+UID:10km-sub45-v8-114@trainingsplan
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260804
 SUMMARY:Gym licht
@@ -917,7 +917,7 @@ DESCRIPTION:Onderhoud. Geen zware belasting.\n45 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-115@trainingsplan
+UID:10km-sub45-v8-115@trainingsplan
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260805
 SUMMARY:10km simulatie
@@ -925,7 +925,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\n8km race simulatie\n- 45m 4:30-4:25/km Pac
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-116@trainingsplan
+UID:10km-sub45-v8-116@trainingsplan
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260806
 SUMMARY:Gym licht
@@ -933,7 +933,7 @@ DESCRIPTION:Zelfde als dinsdag.\n45 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-117@trainingsplan
+UID:10km-sub45-v8-117@trainingsplan
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260807
 SUMMARY:Tempoloop
@@ -941,7 +941,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo\n- 25m 4:35-4:30/km Pace\n\nCool-dow
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-118@trainingsplan
+UID:10km-sub45-v8-118@trainingsplan
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260808
 SUMMARY:Rust
@@ -949,23 +949,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-119@trainingsplan
+UID:10km-sub45-v8-119@trainingsplan
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260809
 SUMMARY:Lange duurloop
-DESCRIPTION:Warm-up\n- 80m Z2 Pace
+DESCRIPTION:Warm-up\n- 80m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-120@trainingsplan
+UID:10km-sub45-v8-120@trainingsplan
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260810
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 25m Z2 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
+DESCRIPTION:Warm-up\n- 25m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-121@trainingsplan
+UID:10km-sub45-v8-121@trainingsplan
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260811
 SUMMARY:Gym licht
@@ -973,15 +973,15 @@ DESCRIPTION:Lichte mobiliteit + kracht.\n45 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-122@trainingsplan
+UID:10km-sub45-v8-122@trainingsplan
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260812
 SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 40m Z2 Pace
+DESCRIPTION:Warm-up\n- 40m Z2 Pace\n\nZone 1-2\, tot 159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-123@trainingsplan
+UID:10km-sub45-v8-123@trainingsplan
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260813
 SUMMARY:Gym licht
@@ -989,15 +989,15 @@ DESCRIPTION:Zelfde als dinsdag.\n45 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-124@trainingsplan
+UID:10km-sub45-v8-124@trainingsplan
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260814
 SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 35m Z2 Pace
+DESCRIPTION:Warm-up\n- 35m Z2 Pace\n\nZone 1-2\, tot 159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-125@trainingsplan
+UID:10km-sub45-v8-125@trainingsplan
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260815
 SUMMARY:Rust
@@ -1005,23 +1005,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-126@trainingsplan
+UID:10km-sub45-v8-126@trainingsplan
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260816
 SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 55m Z2 Pace
+DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-127@trainingsplan
+UID:10km-sub45-v8-127@trainingsplan
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260817
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nStrides 8x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 8x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-128@trainingsplan
+UID:10km-sub45-v8-128@trainingsplan
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260818
 SUMMARY:Gym licht
@@ -1029,7 +1029,7 @@ DESCRIPTION:Onderhoud. Geen zware belasting.\n45 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-129@trainingsplan
+UID:10km-sub45-v8-129@trainingsplan
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260819
 SUMMARY:10km simulatie
@@ -1037,7 +1037,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\n6km race simulatie\n- 33m 4:30-4:25/km Pac
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-130@trainingsplan
+UID:10km-sub45-v8-130@trainingsplan
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260820
 SUMMARY:Gym licht
@@ -1045,7 +1045,7 @@ DESCRIPTION:Zelfde als dinsdag.\n45 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-131@trainingsplan
+UID:10km-sub45-v8-131@trainingsplan
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260821
 SUMMARY:Tempoloop
@@ -1053,7 +1053,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo\n- 20m 4:35-4:30/km Pace\n\nCool-dow
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-132@trainingsplan
+UID:10km-sub45-v8-132@trainingsplan
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260822
 SUMMARY:Rust
@@ -1061,23 +1061,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-133@trainingsplan
+UID:10km-sub45-v8-133@trainingsplan
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260823
 SUMMARY:Lange duurloop
-DESCRIPTION:Warm-up\n- 80m Z2 Pace
+DESCRIPTION:Warm-up\n- 80m Z2 Pace\n\nZone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-134@trainingsplan
+UID:10km-sub45-v8-134@trainingsplan
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260824
 SUMMARY:Recovery run
-DESCRIPTION:Warm-up\n- 25m Z2 Pace\n\nOnder 150 bpm.
+DESCRIPTION:Warm-up\n- 25m Z1 Pace\n\nOnder 150 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-135@trainingsplan
+UID:10km-sub45-v8-135@trainingsplan
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260825
 SUMMARY:Gym licht
@@ -1085,7 +1085,7 @@ DESCRIPTION:Mobiliteit + lichte kracht. Geen zware beenbelasting.\n40 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-136@trainingsplan
+UID:10km-sub45-v8-136@trainingsplan
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260826
 SUMMARY:Scherpmaker
@@ -1093,7 +1093,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nRace pace 3x\n- 5m 4:25/km Pace\n- 2m Z2 P
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-137@trainingsplan
+UID:10km-sub45-v8-137@trainingsplan
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260827
 SUMMARY:Alleen mobiliteit
@@ -1101,7 +1101,7 @@ DESCRIPTION:Geen kracht. Stretch en mobiliteit.\n30 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-138@trainingsplan
+UID:10km-sub45-v8-138@trainingsplan
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260828
 SUMMARY:Easy run + strides
@@ -1109,7 +1109,7 @@ DESCRIPTION:Warm-up\n- 20m Z2 Pace\n\nStrides 4x\n- 20s 4:25/km Pace\n- 60s Z2 P
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-139@trainingsplan
+UID:10km-sub45-v8-139@trainingsplan
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260829
 SUMMARY:Rust
@@ -1117,7 +1117,7 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-140@trainingsplan
+UID:10km-sub45-v8-140@trainingsplan
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260830
 SUMMARY:Easy run
@@ -1125,7 +1125,7 @@ DESCRIPTION:Warm-up\n- 25m Z2 Pace\n\nBenen fris houden.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-141@trainingsplan
+UID:10km-sub45-v8-141@trainingsplan
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260831
 SUMMARY:Easy run
@@ -1133,7 +1133,7 @@ DESCRIPTION:Warm-up\n- 20m Z1 Pace\n\nZeer rustig.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-142@trainingsplan
+UID:10km-sub45-v8-142@trainingsplan
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260901
 SUMMARY:Rust
@@ -1141,7 +1141,7 @@ DESCRIPTION:Mobiliteit en stretching.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-143@trainingsplan
+UID:10km-sub45-v8-143@trainingsplan
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260902
 SUMMARY:Activatie
@@ -1149,7 +1149,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nActivatie 4x\n- 2m 4:30-4:25/km Pace\n- 90
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-144@trainingsplan
+UID:10km-sub45-v8-144@trainingsplan
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260903
 SUMMARY:Rust
@@ -1157,7 +1157,7 @@ DESCRIPTION:Gear klaarzetten\, voeding plannen.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-145@trainingsplan
+UID:10km-sub45-v8-145@trainingsplan
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260904
 SUMMARY:Rustig joggen
@@ -1165,7 +1165,7 @@ DESCRIPTION:Warm-up\n- 10m Z1 Pace\n\nStrides 4x\n- 20s 4:25/km Pace\n- 60s Z1 P
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-146@trainingsplan
+UID:10km-sub45-v8-146@trainingsplan
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260905
 SUMMARY:Rust
@@ -1173,7 +1173,7 @@ DESCRIPTION:Koolhydraten laden\, vroeg naar bed.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:10km-sub45-v5-147@trainingsplan
+UID:10km-sub45-v8-147@trainingsplan
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260906
 SUMMARY:RACE DAY - 10KM SUB-45

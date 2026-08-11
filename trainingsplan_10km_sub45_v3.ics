@@ -57,7 +57,10 @@ UID:schema-v13-2-007@trainingsplan
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260614
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 85m Z2 Pace\n\nZone 2\, 151-159 bpm. ~15 km.
+DESCRIPTION:Warm-up
+- 91m Z2 Pace
+
+Zone 2\, 151-159 bpm. ~15 km.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -113,7 +116,16 @@ UID:schema-v13-2-014@trainingsplan
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260621
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 45m Z2 Pace\n\nMarathontempo blok\n- 15m 5:30-5:20/km Pace\n\nUitlopen\n- 40m Z2 Pace\n\n~17 km. Zone 2\, 151-159 bpm.
+DESCRIPTION:Warm-up
+- 44m Z2 Pace
+
+Marathontempo blok
+- 14m 5:30-5:20/km Pace
+
+Uitlopen
+- 44m Z2 Pace
+
+~17 km. 1x~2.5 km @ 5:20-5:30/km MT in het midden.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -169,7 +181,17 @@ UID:schema-v13-2-021@trainingsplan
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260628
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 45m Z2 Pace\n\nMarathontempo blokken 2x\n- 10m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 30m Z2 Pace\n\n~18 km. Zone 2\, 151-159 bpm.
+DESCRIPTION:Warm-up
+- 45m Z2 Pace
+
+Marathontempo blokken 2x
+- 9m 5:30-5:20/km Pace
+- 10m Z2 Pace
+
+Uitlopen
+- 35m Z2 Pace
+
+~18 km. 2x10 min @ 5:20-5:30/km MT.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -225,7 +247,17 @@ UID:schema-v13-2-028@trainingsplan
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260705
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 45m Z2 Pace\n\nMarathontempo blokken 2x\n- 12m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 30m Z2 Pace\n\n~19 km. Zone 2\, 151-159 bpm.
+DESCRIPTION:Warm-up
+- 46m Z2 Pace
+
+Marathontempo blokken 2x
+- 11m 5:30-5:20/km Pace
+- 9m Z2 Pace
+
+Uitlopen
+- 36m Z2 Pace
+
+~19 km. 2x12 min @ 5:20-5:30/km MT.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -281,7 +313,17 @@ UID:schema-v13-2-035@trainingsplan
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260712
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 50m Z2 Pace\n\nMarathontempo blokken 2x\n- 15m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 30m Z2 Pace\n\n~20 km. Zone 2\, 151-159 bpm.
+DESCRIPTION:Warm-up
+- 46m Z2 Pace
+
+Marathontempo blokken 2x
+- 14m 5:30-5:20/km Pace
+- 9m Z2 Pace
+
+Uitlopen
+- 36m Z2 Pace
+
+~20 km. 2x15 min @ 5:20-5:30/km MT.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -337,7 +379,16 @@ UID:schema-v13-2-042@trainingsplan
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260719
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 50m Z2 Pace\n\nMarathontempo blok\n- 15m 5:30-5:20/km Pace\n\nUitlopen\n- 30m Z2 Pace\n\n~18 km. Terugzakweek.
+DESCRIPTION:Warm-up
+- 47m Z2 Pace
+
+Marathontempo blok
+- 14m 5:30-5:20/km Pace
+
+Uitlopen
+- 47m Z2 Pace
+
+~18 km. Terugzakweek. 1x15 min @ 5:20-5:30/km.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -393,7 +444,17 @@ UID:schema-v13-2-049@trainingsplan
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260726
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 50m Z2 Pace\n\nMarathontempo blokken 2x\n- 15m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 30m Z2 Pace\n\n~20 km. Zone 2\, 151-159 bpm.
+DESCRIPTION:Warm-up
+- 46m Z2 Pace
+
+Marathontempo blokken 2x
+- 14m 5:30-5:20/km Pace
+- 9m Z2 Pace
+
+Uitlopen
+- 36m Z2 Pace
+
+~20 km. Zone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -449,7 +510,17 @@ UID:schema-v13-2-056@trainingsplan
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260802
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blokken 2x\n- 15m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 35m Z2 Pace\n\n~22 km. Zone 2\, 151-159 bpm.
+DESCRIPTION:Warm-up
+- 52m Z2 Pace
+
+Marathontempo blokken 2x
+- 14m 5:30-5:20/km Pace
+- 9m Z2 Pace
+
+Uitlopen
+- 43m Z2 Pace
+
+~22 km. Zone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -505,7 +576,17 @@ UID:schema-v13-2-063@trainingsplan
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260809
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 60m Z2 Pace\n\nMarathontempo blokken 2x\n- 15m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 40m Z2 Pace\n\n~24 km. Zone 2\, 151-159 bpm.
+DESCRIPTION:Warm-up
+- 58m Z2 Pace
+
+Marathontempo blokken 2x
+- 14m 5:30-5:20/km Pace
+- 9m Z2 Pace
+
+Uitlopen
+- 49m Z2 Pace
+
+~24 km. Zone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -561,7 +642,17 @@ UID:schema-v13-2-070@trainingsplan
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260816
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 65m Z2 Pace\n\nMarathontempo blokken 2x\n- 20m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 40m Z2 Pace\n\n~26 km. Zone 2\, 151-159 bpm.
+DESCRIPTION:Warm-up
+- 59m Z2 Pace
+
+Marathontempo blokken 2x
+- 18m 5:30-5:20/km Pace
+- 9m Z2 Pace
+
+Uitlopen
+- 50m Z2 Pace
+
+~26 km. 2x20 min @ 5:20-5:30/km MT. Zone 2\, 151-159 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -617,7 +708,16 @@ UID:schema-v13-2-077@trainingsplan
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260823
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blok\n- 20m 5:30-5:20/km Pace\n\nUitlopen\n- 35m Z2 Pace\n\n~22 km. Terugzak.
+DESCRIPTION:Warm-up
+- 57m Z2 Pace
+
+Marathontempo blok
+- 18m 5:30-5:20/km Pace
+
+Uitlopen
+- 57m Z2 Pace
+
+~22 km. Terugzak. 1x20 min @ 5:20-5:30/km.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -673,7 +773,10 @@ UID:schema-v13-2-084@trainingsplan
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260830
 SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 90m Z2 Pace\n\n~16 km easy zone 2. Benen fris houden.
+DESCRIPTION:Warm-up
+- 97m Z2 Pace
+
+~16 km easy zone 2. Benen fris houden.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -785,7 +888,10 @@ UID:schema-v13-2-098@trainingsplan
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260913
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nZone 2\, 151-159 bpm. ~22 km. Puur easy\, geen MT.
+DESCRIPTION:Warm-up
+- 134m Z2 Pace
+
+Zone 2\, 151-159 bpm. ~22 km. Puur easy\, geen MT.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -841,7 +947,17 @@ UID:schema-v13-2-105@trainingsplan
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260920
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blokken 2x\n- 25m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 20m Z2 Pace\n\n~26 km. 2x5 km @ 5:20-5:30/km MT in de tweede helft.
+DESCRIPTION:Warm-up
+- 49m Z2 Pace
+
+Marathontempo blokken 2x
+- 27m 5:30-5:20/km Pace
+- 6m Z2 Pace
+
+Uitlopen
+- 43m Z2 Pace
+
+~26 km. 2x5 km @ 5:20-5:30/km MT in de tweede helft.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -897,7 +1013,17 @@ UID:schema-v13-2-112@trainingsplan
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260927
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blokken 2x\n- 30m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 30m Z2 Pace\n\n~29 km. 2x6 km @ 5:20-5:30/km MT in de tweede helft.
+DESCRIPTION:Warm-up
+- 52m Z2 Pace
+
+Marathontempo blokken 2x
+- 33m 5:30-5:20/km Pace
+- 6m Z2 Pace
+
+Uitlopen
+- 46m Z2 Pace
+
+~29 km. 2x6 km @ 5:20-5:30/km MT in de tweede helft.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -953,7 +1079,16 @@ UID:schema-v13-2-119@trainingsplan
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261004
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blok\n- 40m 5:30-5:20/km Pace\n\nUitlopen\n- 20m Z2 Pace\n\n~23 km. 1x8 km @ 5:20-5:30/km MT. Terugzakweek.
+DESCRIPTION:Warm-up
+- 46m Z2 Pace
+
+Marathontempo blok
+- 43m 5:30-5:20/km Pace
+
+Uitlopen
+- 46m Z2 Pace
+
+~23 km. 1x8 km @ 5:20-5:30/km MT. Terugzakweek.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -1009,7 +1144,16 @@ UID:schema-v13-2-126@trainingsplan
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261011
 SUMMARY:Duurloop SLEUTELWEEK
-DESCRIPTION:Warm-up\n- 80m Z2 Pace\n\nMarathontempo blok\n- 65m 5:30-5:20/km Pace\n\nUitlopen\n- 30m Z2 Pace\n\n~33 km. ~12-14 km @ 5:20-5:30/km MT in de tweede helft. DE sleutelsessie.
+DESCRIPTION:Warm-up
+- 73m Z2 Pace
+
+Marathontempo blok
+- 70m 5:30-5:20/km Pace
+
+Uitlopen
+- 49m Z2 Pace
+
+~33 km. ~13 km @ 5:20-5:30/km MT in de tweede helft. DE sleutelsessie.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -1065,7 +1209,17 @@ UID:schema-v13-2-133@trainingsplan
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261018
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blokken 2x\n- 25m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 20m Z2 Pace\n\n~24 km. 2x5 km @ 5:20-5:30/km MT. Laatste grote duurloop.
+DESCRIPTION:Warm-up
+- 43m Z2 Pace
+
+Marathontempo blokken 2x
+- 27m 5:30-5:20/km Pace
+- 6m Z2 Pace
+
+Uitlopen
+- 36m Z2 Pace
+
+~24 km. 2x5 km @ 5:20-5:30/km MT. Laatste grote duurloop.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -1121,7 +1275,16 @@ UID:schema-v13-2-140@trainingsplan
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 45m Z2 Pace\n\nMarathontempo blok\n- 30m 5:30-5:20/km Pace\n\nUitlopen\n- 15m Z2 Pace\n\n~18 km. 1x6 km @ 5:20-5:30/km MT.
+DESCRIPTION:Warm-up
+- 36m Z2 Pace
+
+Marathontempo blok
+- 33m 5:30-5:20/km Pace
+
+Uitlopen
+- 36m Z2 Pace
+
+~18 km. 1x6 km @ 5:20-5:30/km MT.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT

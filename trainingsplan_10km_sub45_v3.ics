@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Trainingsplan v12 10km+Marathon//NL
+PRODID:-//Trainingsplan v13 10km+Marathon//NL
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Trainingsplan v12 — 10km + Marathon
-X-WR-CALDESC:Sub-45 10km (6 sep) + Sub-3:50 marathon (2 nov) 2026
+X-WR-CALNAME:Trainingsplan v13 — 10km + Marathon
+X-WR-CALDESC:Sub-45 10km (6 sep) + Sub-3:50 marathon (1 nov) 2026
 BEGIN:VEVENT
-UID:schema-v12-001@trainingsplan
+UID:schema-v13-001@trainingsplan
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260608
 SUMMARY:Rust
@@ -13,7 +13,7 @@ DESCRIPTION:Reisdag.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-002@trainingsplan
+UID:schema-v13-002@trainingsplan
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260609
 SUMMARY:Rust
@@ -21,7 +21,7 @@ DESCRIPTION:Herstel reisdag.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-003@trainingsplan
+UID:schema-v13-003@trainingsplan
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260610
 SUMMARY:Easy run
@@ -29,7 +29,7 @@ DESCRIPTION:Warm-up\n- 45m Z2 Pace\n\nEerste run na vakantie. Zone 2\, 151-159 b
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-004@trainingsplan
+UID:schema-v13-004@trainingsplan
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260611
 SUMMARY:Gym sessie
@@ -37,7 +37,7 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-005@trainingsplan
+UID:schema-v13-005@trainingsplan
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260612
 SUMMARY:Easy run + strides
@@ -45,7 +45,7 @@ DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nStrides 4x\n- 20s 4:30-4:25/km Pace\n- 60s
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-006@trainingsplan
+UID:schema-v13-006@trainingsplan
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260613
 SUMMARY:Rust
@@ -53,7 +53,7 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-007@trainingsplan
+UID:schema-v13-007@trainingsplan
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260614
 SUMMARY:Duurloop
@@ -61,7 +61,7 @@ DESCRIPTION:Warm-up\n- 85m Z2 Pace\n\nZone 2\, 151-159 bpm. ~15 km.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-008@trainingsplan
+UID:schema-v13-008@trainingsplan
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260615
 SUMMARY:Recovery run + strides
@@ -69,7 +69,7 @@ DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-009@trainingsplan
+UID:schema-v13-009@trainingsplan
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260616
 SUMMARY:Gym sessie
@@ -77,15 +77,15 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-010@trainingsplan
+UID:schema-v13-010@trainingsplan
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260617
 SUMMARY:Intervallen
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 5x\n- 5m 4:40-4:30/km Pace\n- 90s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\nZ4-5\, 169+ bpm tijdens intervallen.
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 5x\n- 5m 4:40-4:30/km Pace\n- 90s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\nZ4-5\, 169+ bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-011@trainingsplan
+UID:schema-v13-011@trainingsplan
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260618
 SUMMARY:Gym sessie
@@ -93,7 +93,7 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-012@trainingsplan
+UID:schema-v13-012@trainingsplan
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260619
 SUMMARY:Tempoloop
@@ -101,7 +101,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo blok 1\n- 15m 4:50-4:40/km Pace\n\nH
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-013@trainingsplan
+UID:schema-v13-013@trainingsplan
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260620
 SUMMARY:Rust
@@ -109,7 +109,7 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-014@trainingsplan
+UID:schema-v13-014@trainingsplan
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260621
 SUMMARY:Duurloop
@@ -117,7 +117,7 @@ DESCRIPTION:Warm-up\n- 45m Z2 Pace\n\nMarathontempo blok\n- 15m 5:30-5:20/km Pac
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-015@trainingsplan
+UID:schema-v13-015@trainingsplan
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260622
 SUMMARY:Recovery run + strides
@@ -125,7 +125,7 @@ DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-016@trainingsplan
+UID:schema-v13-016@trainingsplan
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260623
 SUMMARY:Gym sessie
@@ -133,7 +133,7 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-017@trainingsplan
+UID:schema-v13-017@trainingsplan
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260624
 SUMMARY:Intervallen
@@ -141,7 +141,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 5x\n- 5m 4:30-4:20/km Pace\n- 
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-018@trainingsplan
+UID:schema-v13-018@trainingsplan
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260625
 SUMMARY:Gym sessie
@@ -149,7 +149,7 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-019@trainingsplan
+UID:schema-v13-019@trainingsplan
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260626
 SUMMARY:Tempoloop
@@ -157,7 +157,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo blok 1\n- 15m 4:45-4:35/km Pace\n\nH
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-020@trainingsplan
+UID:schema-v13-020@trainingsplan
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260627
 SUMMARY:Rust
@@ -165,7 +165,7 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-021@trainingsplan
+UID:schema-v13-021@trainingsplan
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260628
 SUMMARY:Duurloop
@@ -173,7 +173,7 @@ DESCRIPTION:Warm-up\n- 45m Z2 Pace\n\nMarathontempo blokken 2x\n- 10m 5:30-5:20/
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-022@trainingsplan
+UID:schema-v13-022@trainingsplan
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260629
 SUMMARY:Recovery run + strides
@@ -181,7 +181,7 @@ DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-023@trainingsplan
+UID:schema-v13-023@trainingsplan
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260630
 SUMMARY:Gym sessie
@@ -189,7 +189,7 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-024@trainingsplan
+UID:schema-v13-024@trainingsplan
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260701
 SUMMARY:Intervallen
@@ -197,7 +197,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 4x\n- 7m 4:30-4:20/km Pace\n- 
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-025@trainingsplan
+UID:schema-v13-025@trainingsplan
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260702
 SUMMARY:Gym sessie
@@ -205,7 +205,7 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-026@trainingsplan
+UID:schema-v13-026@trainingsplan
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260703
 SUMMARY:Tempoloop
@@ -213,7 +213,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo blok 1\n- 15m 4:42-4:35/km Pace\n\nH
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-027@trainingsplan
+UID:schema-v13-027@trainingsplan
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260704
 SUMMARY:Rust
@@ -221,7 +221,7 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-028@trainingsplan
+UID:schema-v13-028@trainingsplan
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260705
 SUMMARY:Duurloop
@@ -229,7 +229,7 @@ DESCRIPTION:Warm-up\n- 45m Z2 Pace\n\nMarathontempo blokken 2x\n- 12m 5:30-5:20/
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-029@trainingsplan
+UID:schema-v13-029@trainingsplan
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260706
 SUMMARY:Recovery run + strides
@@ -237,7 +237,7 @@ DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-030@trainingsplan
+UID:schema-v13-030@trainingsplan
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260707
 SUMMARY:Gym sessie
@@ -245,7 +245,7 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-031@trainingsplan
+UID:schema-v13-031@trainingsplan
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260708
 SUMMARY:Intervallen
@@ -253,7 +253,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 6x\n- 4m 4:30-4:20/km Pace\n- 
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-032@trainingsplan
+UID:schema-v13-032@trainingsplan
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260709
 SUMMARY:Gym sessie
@@ -261,7 +261,7 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-033@trainingsplan
+UID:schema-v13-033@trainingsplan
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260710
 SUMMARY:Tempoloop
@@ -269,7 +269,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo\n- 25m 4:42-4:35/km Pace\n\nCool-dow
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-034@trainingsplan
+UID:schema-v13-034@trainingsplan
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260711
 SUMMARY:Rust
@@ -277,7 +277,7 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-035@trainingsplan
+UID:schema-v13-035@trainingsplan
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260712
 SUMMARY:Duurloop
@@ -285,7 +285,7 @@ DESCRIPTION:Warm-up\n- 50m Z2 Pace\n\nMarathontempo blokken 2x\n- 15m 5:30-5:20/
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-036@trainingsplan
+UID:schema-v13-036@trainingsplan
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260713
 SUMMARY:Recovery run + strides
@@ -293,7 +293,7 @@ DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-037@trainingsplan
+UID:schema-v13-037@trainingsplan
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260714
 SUMMARY:Gym sessie
@@ -301,15 +301,15 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-038@trainingsplan
+UID:schema-v13-038@trainingsplan
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260715
 SUMMARY:Intervallen
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 5x\n- 5m 4:35-4:25/km Pace\n- 90s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\nTerugzakweek. Iets minder volume.
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 5x\n- 5m 4:35-4:25/km Pace\n- 90s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\nTerugzakweek.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-039@trainingsplan
+UID:schema-v13-039@trainingsplan
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260716
 SUMMARY:Gym sessie
@@ -317,7 +317,7 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-040@trainingsplan
+UID:schema-v13-040@trainingsplan
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260717
 SUMMARY:Tempoloop
@@ -325,7 +325,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo blok 1\n- 15m 4:40-4:30/km Pace\n\nH
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-041@trainingsplan
+UID:schema-v13-041@trainingsplan
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260718
 SUMMARY:Rust
@@ -333,23 +333,23 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-042@trainingsplan
+UID:schema-v13-042@trainingsplan
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260719
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 50m Z2 Pace\n\nMarathontempo blok\n- 15m 5:30-5:20/km Pace\n\nUitlopen\n- 30m Z2 Pace\n\n~18 km. Terugzakweek. Zone 2\, 151-159 bpm.
+DESCRIPTION:Warm-up\n- 50m Z2 Pace\n\nMarathontempo blok\n- 15m 5:30-5:20/km Pace\n\nUitlopen\n- 30m Z2 Pace\n\n~18 km. Terugzakweek.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-043@trainingsplan
+UID:schema-v13-043@trainingsplan
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260720
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 8x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace\n\nOnder 150 bpm. Strides iets sneller.
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 8x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace\n\nOnder 150 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-044@trainingsplan
+UID:schema-v13-044@trainingsplan
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260721
 SUMMARY:Gym sessie
@@ -357,7 +357,7 @@ DESCRIPTION:Full body licht.\n50 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-045@trainingsplan
+UID:schema-v13-045@trainingsplan
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260722
 SUMMARY:10km simulatie
@@ -365,7 +365,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nRace pace 3x\n- 10m 4:30-4:25/km Pace\n- 2
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-046@trainingsplan
+UID:schema-v13-046@trainingsplan
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260723
 SUMMARY:Gym sessie
@@ -373,7 +373,7 @@ DESCRIPTION:Full body licht.\n50 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-047@trainingsplan
+UID:schema-v13-047@trainingsplan
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260724
 SUMMARY:Tempoloop
@@ -381,7 +381,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo blok 1\n- 15m 4:35-4:25/km Pace\n\nH
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-048@trainingsplan
+UID:schema-v13-048@trainingsplan
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260725
 SUMMARY:Rust
@@ -389,7 +389,7 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-049@trainingsplan
+UID:schema-v13-049@trainingsplan
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260726
 SUMMARY:Duurloop
@@ -397,7 +397,7 @@ DESCRIPTION:Warm-up\n- 50m Z2 Pace\n\nMarathontempo blokken 2x\n- 15m 5:30-5:20/
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-050@trainingsplan
+UID:schema-v13-050@trainingsplan
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260727
 SUMMARY:Recovery run + strides
@@ -405,7 +405,7 @@ DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 8x\n- 25s 4:30-4:25/km Pace\n- 60s
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-051@trainingsplan
+UID:schema-v13-051@trainingsplan
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260728
 SUMMARY:Gym sessie
@@ -413,7 +413,7 @@ DESCRIPTION:Full body licht.\n50 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-052@trainingsplan
+UID:schema-v13-052@trainingsplan
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260729
 SUMMARY:10km simulatie
@@ -421,7 +421,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\n6km race simulatie\n- 35m 4:30-4:25/km Pac
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-053@trainingsplan
+UID:schema-v13-053@trainingsplan
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260730
 SUMMARY:Gym sessie
@@ -429,7 +429,7 @@ DESCRIPTION:Full body licht.\n50 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-054@trainingsplan
+UID:schema-v13-054@trainingsplan
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260731
 SUMMARY:Intervallen
@@ -437,7 +437,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 8x\n- 3m 4:20-4:10/km Pace\n- 
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-055@trainingsplan
+UID:schema-v13-055@trainingsplan
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260801
 SUMMARY:Rust
@@ -445,7 +445,7 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-056@trainingsplan
+UID:schema-v13-056@trainingsplan
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260802
 SUMMARY:Duurloop
@@ -453,7 +453,7 @@ DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blokken 2x\n- 15m 5:30-5:20/
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-057@trainingsplan
+UID:schema-v13-057@trainingsplan
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260803
 SUMMARY:Recovery run + strides
@@ -461,7 +461,7 @@ DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 8x\n- 25s 4:30-4:25/km Pace\n- 60s
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-058@trainingsplan
+UID:schema-v13-058@trainingsplan
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260804
 SUMMARY:Gym sessie
@@ -469,7 +469,7 @@ DESCRIPTION:Full body licht.\n50 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-059@trainingsplan
+UID:schema-v13-059@trainingsplan
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260805
 SUMMARY:10km simulatie
@@ -477,7 +477,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\n8km race simulatie\n- 45m 4:30-4:25/km Pac
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-060@trainingsplan
+UID:schema-v13-060@trainingsplan
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260806
 SUMMARY:Gym sessie
@@ -485,7 +485,7 @@ DESCRIPTION:Full body licht.\n50 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-061@trainingsplan
+UID:schema-v13-061@trainingsplan
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260807
 SUMMARY:Tempoloop
@@ -493,7 +493,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo blok 1\n- 15m 4:35-4:25/km Pace\n\nH
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-062@trainingsplan
+UID:schema-v13-062@trainingsplan
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260808
 SUMMARY:Rust
@@ -501,7 +501,7 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-063@trainingsplan
+UID:schema-v13-063@trainingsplan
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260809
 SUMMARY:Duurloop
@@ -509,7 +509,7 @@ DESCRIPTION:Warm-up\n- 60m Z2 Pace\n\nMarathontempo blokken 2x\n- 15m 5:30-5:20/
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-064@trainingsplan
+UID:schema-v13-064@trainingsplan
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260810
 SUMMARY:Recovery run + strides
@@ -517,7 +517,7 @@ DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 8x\n- 25s 4:30-4:25/km Pace\n- 60s
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-065@trainingsplan
+UID:schema-v13-065@trainingsplan
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260811
 SUMMARY:Gym sessie
@@ -525,7 +525,7 @@ DESCRIPTION:Full body licht.\n50 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-066@trainingsplan
+UID:schema-v13-066@trainingsplan
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260812
 SUMMARY:10km simulatie
@@ -533,7 +533,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\n6km race simulatie\n- 33m 4:30-4:25/km Pac
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-067@trainingsplan
+UID:schema-v13-067@trainingsplan
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260813
 SUMMARY:Gym sessie licht
@@ -541,7 +541,7 @@ DESCRIPTION:Licht. Focus mobiliteit.\n45 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-068@trainingsplan
+UID:schema-v13-068@trainingsplan
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260814
 SUMMARY:5KM TIJDRIT
@@ -549,7 +549,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\n5km tijdrit\n- 25m 4:30-4:20/km Pace\n\nCo
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-069@trainingsplan
+UID:schema-v13-069@trainingsplan
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260815
 SUMMARY:Rust
@@ -557,7 +557,7 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-070@trainingsplan
+UID:schema-v13-070@trainingsplan
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260816
 SUMMARY:Duurloop
@@ -565,7 +565,7 @@ DESCRIPTION:Warm-up\n- 65m Z2 Pace\n\nMarathontempo blokken 2x\n- 20m 5:30-5:20/
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-071@trainingsplan
+UID:schema-v13-071@trainingsplan
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260817
 SUMMARY:Recovery run + strides
@@ -573,7 +573,7 @@ DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 8x\n- 25s 4:30-4:25/km Pace\n- 60s
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-072@trainingsplan
+UID:schema-v13-072@trainingsplan
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260818
 SUMMARY:Gym sessie
@@ -581,7 +581,7 @@ DESCRIPTION:Full body licht.\n50 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-073@trainingsplan
+UID:schema-v13-073@trainingsplan
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260819
 SUMMARY:10km simulatie
@@ -589,7 +589,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\n6km race simulatie\n- 33m 4:30-4:25/km Pac
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-074@trainingsplan
+UID:schema-v13-074@trainingsplan
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260820
 SUMMARY:Gym sessie
@@ -597,7 +597,7 @@ DESCRIPTION:Full body licht.\n50 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-075@trainingsplan
+UID:schema-v13-075@trainingsplan
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260821
 SUMMARY:Tempoloop
@@ -605,7 +605,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo blok 1\n- 15m 4:35-4:25/km Pace\n\nH
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-076@trainingsplan
+UID:schema-v13-076@trainingsplan
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260822
 SUMMARY:Rust
@@ -613,15 +613,15 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-077@trainingsplan
+UID:schema-v13-077@trainingsplan
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260823
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blok\n- 20m 5:30-5:20/km Pace\n\nUitlopen\n- 35m Z2 Pace\n\n~22 km. Terugzak. Zone 2\, 151-159 bpm.
+DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blok\n- 20m 5:30-5:20/km Pace\n\nUitlopen\n- 35m Z2 Pace\n\n~22 km. Terugzak.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-078@trainingsplan
+UID:schema-v13-078@trainingsplan
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260824
 SUMMARY:Recovery run
@@ -629,7 +629,7 @@ DESCRIPTION:Warm-up\n- 25m Z1 Pace\n\nOnder 150 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-079@trainingsplan
+UID:schema-v13-079@trainingsplan
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260825
 SUMMARY:Gym sessie licht
@@ -637,7 +637,7 @@ DESCRIPTION:Licht. Geen zware beenbelasting.\n40 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-080@trainingsplan
+UID:schema-v13-080@trainingsplan
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260826
 SUMMARY:Scherpmaker
@@ -645,7 +645,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nRace pace 3x\n- 5m 4:25/km Pace\n- 2m Z2 P
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-081@trainingsplan
+UID:schema-v13-081@trainingsplan
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260827
 SUMMARY:Mobiliteit
@@ -653,7 +653,7 @@ DESCRIPTION:Geen kracht. Stretch en mobiliteit.\n30 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-082@trainingsplan
+UID:schema-v13-082@trainingsplan
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260828
 SUMMARY:Easy run + strides
@@ -661,7 +661,7 @@ DESCRIPTION:Warm-up\n- 25m Z2 Pace\n\nStrides 4x\n- 20s 4:25/km Pace\n- 60s Z2 P
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-083@trainingsplan
+UID:schema-v13-083@trainingsplan
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260829
 SUMMARY:Rust
@@ -669,7 +669,7 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-084@trainingsplan
+UID:schema-v13-084@trainingsplan
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260830
 SUMMARY:Easy run
@@ -677,7 +677,7 @@ DESCRIPTION:Warm-up\n- 90m Z2 Pace\n\n~16 km easy zone 2. Benen fris houden.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-085@trainingsplan
+UID:schema-v13-085@trainingsplan
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260831
 SUMMARY:Easy run
@@ -685,7 +685,7 @@ DESCRIPTION:Warm-up\n- 20m Z1 Pace\n\nZeer rustig.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-086@trainingsplan
+UID:schema-v13-086@trainingsplan
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260901
 SUMMARY:Rust
@@ -693,7 +693,7 @@ DESCRIPTION:Mobiliteit en stretching.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-087@trainingsplan
+UID:schema-v13-087@trainingsplan
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260902
 SUMMARY:Activatie
@@ -701,7 +701,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nActivatie 4x\n- 2m 4:30-4:25/km Pace\n- 90
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-088@trainingsplan
+UID:schema-v13-088@trainingsplan
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260903
 SUMMARY:Rust
@@ -709,7 +709,7 @@ DESCRIPTION:Gear klaarzetten\, voeding plannen.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-089@trainingsplan
+UID:schema-v13-089@trainingsplan
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260904
 SUMMARY:Rustig joggen
@@ -717,7 +717,7 @@ DESCRIPTION:Warm-up\n- 10m Z1 Pace\n\nStrides 4x\n- 20s 4:25/km Pace\n- 60s Z1 P
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-090@trainingsplan
+UID:schema-v13-090@trainingsplan
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260905
 SUMMARY:Rust
@@ -725,7 +725,7 @@ DESCRIPTION:Koolhydraten laden\, vroeg naar bed.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-091@trainingsplan
+UID:schema-v13-091@trainingsplan
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260906
 SUMMARY:RACE DAY - 10KM SUB-45
@@ -733,7 +733,7 @@ DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nRace\n- 45m 4:30-4:20/km Pace\n\nStrategie
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-092@trainingsplan
+UID:schema-v13-092@trainingsplan
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260907
 SUMMARY:Rust
@@ -741,7 +741,7 @@ DESCRIPTION:Herstel na race.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-093@trainingsplan
+UID:schema-v13-093@trainingsplan
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260908
 SUMMARY:Gym sessie licht
@@ -749,7 +749,7 @@ DESCRIPTION:Licht. Focus mobiliteit + herstel.\n45 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-094@trainingsplan
+UID:schema-v13-094@trainingsplan
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260909
 SUMMARY:Easy run
@@ -757,47 +757,47 @@ DESCRIPTION:Warm-up\n- 40m Z2 Pace\n\nBenen voelen\, geen druk. Zone 2\, 151-159
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-095@trainingsplan
+UID:schema-v13-095@trainingsplan
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260910
 SUMMARY:Gym sessie
-DESCRIPTION:Full body.\n60 min.
+DESCRIPTION:Full body.\n50 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-096@trainingsplan
+UID:schema-v13-096@trainingsplan
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260911
 SUMMARY:Easy run + strides
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nStrides 4x\n- 20s 5:25/km Pace\n- 60s Z2 Pace\n\n30 min easy + 4x strides.
+DESCRIPTION:Warm-up\n- 35m Z2 Pace\n\nStrides 4x\n- 20s 4:30-4:25/km Pace\n- 60s Z2 Pace\n\n35 min easy zone 2 + 4x20 sec strides.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-097@trainingsplan
+UID:schema-v13-097@trainingsplan
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260912
-SUMMARY:Rust
-DESCRIPTION:
-CATEGORIES:Rest
+SUMMARY:Easy run
+DESCRIPTION:Warm-up\n- 25m Z1 Pace\n\nZeer rustig. Kort.
+CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-098@trainingsplan
+UID:schema-v13-098@trainingsplan
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260913
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blok\n- 20m 5:30-5:20/km Pace\n\nUitlopen\n- 35m Z2 Pace\n\n~24 km. Zone 2\, 151-159 bpm.
+DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nZone 2\, 151-159 bpm. ~22 km. Puur easy\, geen MT.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-099@trainingsplan
+UID:schema-v13-099@trainingsplan
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260914
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 5:25/km Pace\n- 60s Z2 Pace\n\nOnder 150 bpm. Strides op marathontempo.
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace\n\nOnder 150 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-100@trainingsplan
+UID:schema-v13-100@trainingsplan
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260915
 SUMMARY:Gym sessie
@@ -805,15 +805,15 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-101@trainingsplan
+UID:schema-v13-101@trainingsplan
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260916
-SUMMARY:Marathontempo intervallen
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 4x\n- 10m 5:30-5:20/km Pace\n- 2m Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n4x10 min @ 5:20-5:30/km marathontempo.
+SUMMARY:VO2max intervallen
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 5x\n- 3m 4:20-4:10/km Pace\n- 150s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n5x3 min @ 4:10-4:20/km (Z5). Pace leidend\, HR ≥178 in tweede helft van de rep.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-102@trainingsplan
+UID:schema-v13-102@trainingsplan
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260917
 SUMMARY:Gym sessie
@@ -821,39 +821,39 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-103@trainingsplan
+UID:schema-v13-103@trainingsplan
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260918
-SUMMARY:Tempoloop
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo\n- 30m 5:30-5:20/km Pace\n\nCool-down\n- 10m Z2 Pace\n\n30 min @ marathontempo.
+SUMMARY:Drempel
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nDrempel blok 1\n- 15m 4:42-4:37/km Pace\n\nHerstel\n- 3m Z2 Pace\n\nDrempel blok 2\n- 15m 4:42-4:37/km Pace\n\nCool-down\n- 10m Z2 Pace\n\n2x15 min @ 4:37-4:42/km (Z4).
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-104@trainingsplan
+UID:schema-v13-104@trainingsplan
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260919
-SUMMARY:Rust
-DESCRIPTION:
-CATEGORIES:Rest
+SUMMARY:Easy run
+DESCRIPTION:Warm-up\n- 25m Z1 Pace\n\nZeer rustig. Kort\, vóór de lange run.
+CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-105@trainingsplan
+UID:schema-v13-105@trainingsplan
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260920
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blokken 2x\n- 15m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 45m Z2 Pace\n\n~27 km. Zone 2\, 151-159 bpm.
+DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blokken 2x\n- 25m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 20m Z2 Pace\n\n~26 km. 2x5 km @ 5:20-5:30/km MT in de tweede helft.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-106@trainingsplan
+UID:schema-v13-106@trainingsplan
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260921
 SUMMARY:Recovery run + strides
-DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 5:25/km Pace\n- 60s Z2 Pace\n\nOnder 150 bpm.
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 4:30-4:25/km Pace\n- 60s Z2 Pace\n\nOnder 150 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-107@trainingsplan
+UID:schema-v13-107@trainingsplan
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260922
 SUMMARY:Gym sessie
@@ -861,15 +861,15 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-108@trainingsplan
+UID:schema-v13-108@trainingsplan
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260923
-SUMMARY:Marathontempo intervallen
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 3x\n- 15m 5:30-5:20/km Pace\n- 2m Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n3x15 min @ 5:20-5:30/km marathontempo.
+SUMMARY:VO2max intervallen
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 6x\n- 3m 4:20-4:10/km Pace\n- 150s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n6x3 min @ 4:10-4:20/km (Z5).
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-109@trainingsplan
+UID:schema-v13-109@trainingsplan
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260924
 SUMMARY:Gym sessie
@@ -877,31 +877,31 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-110@trainingsplan
+UID:schema-v13-110@trainingsplan
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260925
-SUMMARY:Tempoloop
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo\n- 35m 5:30-5:20/km Pace\n\nCool-down\n- 10m Z2 Pace\n\n35 min @ marathontempo.
+SUMMARY:Drempel
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nDrempel blok 1\n- 18m 4:42-4:37/km Pace\n\nHerstel\n- 3m Z2 Pace\n\nDrempel blok 2\n- 18m 4:42-4:37/km Pace\n\nCool-down\n- 10m Z2 Pace\n\n2x18 min @ 4:37-4:42/km (Z4).
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-111@trainingsplan
+UID:schema-v13-111@trainingsplan
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260926
-SUMMARY:Rust
-DESCRIPTION:
-CATEGORIES:Rest
+SUMMARY:Easy run
+DESCRIPTION:Warm-up\n- 25m Z1 Pace\n\nZeer rustig. Kort.
+CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-112@trainingsplan
+UID:schema-v13-112@trainingsplan
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260927
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blokken 2x\n- 20m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 50m Z2 Pace\n\n~29 km. Zone 2\, 151-159 bpm.
+DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blokken 2x\n- 30m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 30m Z2 Pace\n\n~29 km. 2x6 km @ 5:20-5:30/km MT in de tweede helft.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-113@trainingsplan
+UID:schema-v13-113@trainingsplan
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260928
 SUMMARY:Recovery run
@@ -909,7 +909,7 @@ DESCRIPTION:Warm-up\n- 25m Z1 Pace\n\nOnder 150 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-114@trainingsplan
+UID:schema-v13-114@trainingsplan
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260929
 SUMMARY:Gym sessie licht
@@ -917,15 +917,15 @@ DESCRIPTION:Licht.\n45 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-115@trainingsplan
+UID:schema-v13-115@trainingsplan
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20260930
-SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 40m Z2 Pace\n\nHerstelweek. Zone 2\, 151-159 bpm.
+SUMMARY:VO2max intervallen
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 4x\n- 3m 4:20-4:10/km Pace\n- 150s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n4x3 min @ 4:10-4:20/km (Z5). Getrimd.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-116@trainingsplan
+UID:schema-v13-116@trainingsplan
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261001
 SUMMARY:Gym sessie licht
@@ -933,15 +933,15 @@ DESCRIPTION:Licht.\n45 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-117@trainingsplan
+UID:schema-v13-117@trainingsplan
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261002
-SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 35m Z2 Pace\n\nZone 2\, 151-159 bpm.
+SUMMARY:Drempel
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nDrempel blok 1\n- 12m 4:42-4:37/km Pace\n\nHerstel\n- 3m Z2 Pace\n\nDrempel blok 2\n- 12m 4:42-4:37/km Pace\n\nCool-down\n- 10m Z2 Pace\n\n2x12 min @ 4:37-4:42/km (Z4). Getrimd.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-118@trainingsplan
+UID:schema-v13-118@trainingsplan
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261003
 SUMMARY:Rust
@@ -949,15 +949,15 @@ DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-119@trainingsplan
+UID:schema-v13-119@trainingsplan
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261004
 SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 60m Z2 Pace\n\nZone 2\, 151-159 bpm. ~24 km. Terugzakweek.
+DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blok\n- 40m 5:30-5:20/km Pace\n\nUitlopen\n- 20m Z2 Pace\n\n~23 km. 1x8 km @ 5:20-5:30/km MT. Terugzakweek.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-120@trainingsplan
+UID:schema-v13-120@trainingsplan
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
 SUMMARY:Recovery run + strides
@@ -965,7 +965,7 @@ DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 5:25/km Pace\n- 60s Z2 P
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-121@trainingsplan
+UID:schema-v13-121@trainingsplan
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261006
 SUMMARY:Gym sessie
@@ -973,15 +973,15 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-122@trainingsplan
+UID:schema-v13-122@trainingsplan
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261007
-SUMMARY:Marathontempo intervallen
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 4x\n- 15m 5:30-5:20/km Pace\n- 90s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n4x15 min @ 5:20-5:30/km marathontempo.
+SUMMARY:VO2max intervallen
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 4x\n- 3m 4:20-4:10/km Pace\n- 150s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n4x3 min @ 4:10-4:20/km (Z5). Getrimd — lange run is prioriteit.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-123@trainingsplan
+UID:schema-v13-123@trainingsplan
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261008
 SUMMARY:Gym sessie
@@ -989,175 +989,175 @@ DESCRIPTION:Full body.\n60 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-124@trainingsplan
+UID:schema-v13-124@trainingsplan
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261009
-SUMMARY:Tempoloop
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo\n- 40m 5:30-5:20/km Pace\n\nCool-down\n- 10m Z2 Pace\n\n40 min @ marathontempo.
+SUMMARY:Drempel
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nDrempel blok 1\n- 12m 4:42-4:37/km Pace\n\nHerstel\n- 3m Z2 Pace\n\nDrempel blok 2\n- 12m 4:42-4:37/km Pace\n\nCool-down\n- 10m Z2 Pace\n\n2x12 min @ 4:37-4:42/km (Z4). Getrimd.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-125@trainingsplan
+UID:schema-v13-125@trainingsplan
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261010
-SUMMARY:Rust
-DESCRIPTION:
-CATEGORIES:Rest
+SUMMARY:Easy run
+DESCRIPTION:Warm-up\n- 25m Z1 Pace\n\nZeer rustig. Kort.
+CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-126@trainingsplan
+UID:schema-v13-126@trainingsplan
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261011
 SUMMARY:Duurloop SLEUTELWEEK
-DESCRIPTION:Warm-up\n- 80m Z2 Pace\n\nMarathontempo blokken 2x\n- 20m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 65m Z2 Pace\n\n~33 km. Zone 2\, 151-159 bpm. DE sleutelsessie van het schema.
+DESCRIPTION:Warm-up\n- 80m Z2 Pace\n\nMarathontempo blok\n- 65m 5:30-5:20/km Pace\n\nUitlopen\n- 30m Z2 Pace\n\n~33 km. ~12-14 km @ 5:20-5:30/km MT in de tweede helft. DE sleutelsessie van het schema.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-127@trainingsplan
+UID:schema-v13-127@trainingsplan
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261012
+SUMMARY:Recovery run + strides
+DESCRIPTION:Warm-up\n- 30m Z1 Pace\n\nStrides 6x\n- 25s 5:25/km Pace\n- 60s Z2 Pace\n\nOnder 150 bpm.
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+UID:schema-v13-128@trainingsplan
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261013
+SUMMARY:Gym sessie
+DESCRIPTION:Full body.\n60 min.
+CATEGORIES:Gym
+END:VEVENT
+BEGIN:VEVENT
+UID:schema-v13-129@trainingsplan
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261014
+SUMMARY:VO2max intervallen
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 4x\n- 3m 4:20-4:10/km Pace\n- 150s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n4x3 min @ 4:10-4:20/km (Z5).
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+UID:schema-v13-130@trainingsplan
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+SUMMARY:Gym sessie
+DESCRIPTION:Full body.\n60 min.
+CATEGORIES:Gym
+END:VEVENT
+BEGIN:VEVENT
+UID:schema-v13-131@trainingsplan
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261016
+SUMMARY:Drempel
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nDrempel blok 1\n- 15m 4:42-4:37/km Pace\n\nHerstel\n- 3m Z2 Pace\n\nDrempel blok 2\n- 15m 4:42-4:37/km Pace\n\nCool-down\n- 10m Z2 Pace\n\n2x15 min @ 4:37-4:42/km (Z4).
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+UID:schema-v13-132@trainingsplan
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261017
+SUMMARY:Easy run
+DESCRIPTION:Warm-up\n- 25m Z1 Pace\n\nZeer rustig. Kort.
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+UID:schema-v13-133@trainingsplan
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261018
+SUMMARY:Duurloop
+DESCRIPTION:Warm-up\n- 55m Z2 Pace\n\nMarathontempo blokken 2x\n- 25m 5:30-5:20/km Pace\n- 5m Z2 Pace\n\nUitlopen\n- 20m Z2 Pace\n\n~24 km. 2x5 km @ 5:20-5:30/km MT. Laatste grote duurloop.
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+UID:schema-v13-134@trainingsplan
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261019
 SUMMARY:Recovery run
 DESCRIPTION:Warm-up\n- 25m Z1 Pace\n\nOnder 150 bpm.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-128@trainingsplan
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261013
-SUMMARY:Gym sessie licht
-DESCRIPTION:Licht.\n45 min.
-CATEGORIES:Gym
-END:VEVENT
-BEGIN:VEVENT
-UID:schema-v12-129@trainingsplan
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261015
-SUMMARY:Marathontempo scherpmaker
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nTempo\n- 25m 5:30-5:20/km Pace\n\nCool-down\n- 10m Z2 Pace\n\nScherpstellen. Volume terug.
-CATEGORIES:Run
-END:VEVENT
-BEGIN:VEVENT
-UID:schema-v12-130@trainingsplan
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261016
-SUMMARY:Gym sessie licht
-DESCRIPTION:Licht.\n45 min.
-CATEGORIES:Gym
-END:VEVENT
-BEGIN:VEVENT
-UID:schema-v12-131@trainingsplan
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261016
-SUMMARY:Easy run + strides
-DESCRIPTION:Warm-up\n- 30m Z2 Pace\n\nStrides 4x\n- 20s 5:25/km Pace\n- 60s Z2 Pace\n\n30 min easy + 4x strides.
-CATEGORIES:Run
-END:VEVENT
-BEGIN:VEVENT
-UID:schema-v12-132@trainingsplan
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261018
-SUMMARY:Rust
-DESCRIPTION:
-CATEGORIES:Rest
-END:VEVENT
-BEGIN:VEVENT
-UID:schema-v12-133@trainingsplan
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261019
-SUMMARY:Duurloop
-DESCRIPTION:Warm-up\n- 60m Z2 Pace\n\nZone 2\, 151-159 bpm. ~25 km. Begin taper.
-CATEGORIES:Run
-END:VEVENT
-BEGIN:VEVENT
-UID:schema-v12-134@trainingsplan
+UID:schema-v13-135@trainingsplan
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261020
-SUMMARY:Recovery run
-DESCRIPTION:Warm-up\n- 20m Z1 Pace\n\nZeer rustig.
-CATEGORIES:Run
-END:VEVENT
-BEGIN:VEVENT
-UID:schema-v12-135@trainingsplan
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261021
-SUMMARY:Gym sessie
-DESCRIPTION:Mobiliteit + lichte kracht.\n40 min.
+SUMMARY:Gym sessie licht
+DESCRIPTION:Licht. Geen zware beenbelasting.\n40 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-136@trainingsplan
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261022
-SUMMARY:Scherpmaker marathon
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nMarathontempo 3x\n- 5m 5:25/km Pace\n- 2m Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n3x1 km @ marathontempo.
+UID:schema-v13-136@trainingsplan
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261021
+SUMMARY:VO2max intervallen
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nIntervallen 4x\n- 2m 4:20-4:10/km Pace\n- 150s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n4x2 min @ 4:10-4:20/km (Z5). Kort en scherp — laatste harde sessie.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-137@trainingsplan
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261023
+UID:schema-v13-137@trainingsplan
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261022
 SUMMARY:Mobiliteit
 DESCRIPTION:Geen kracht. Stretch en mobiliteit.\n30 min.
 CATEGORIES:Gym
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-138@trainingsplan
+UID:schema-v13-138@trainingsplan
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261023
-SUMMARY:Easy run + strides
-DESCRIPTION:Warm-up\n- 20m Z2 Pace\n\nStrides 4x\n- 20s 5:25/km Pace\n- 60s Z2 Pace\n\nUitlopen\n- 5m Z2 Pace
+SUMMARY:Drempel
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nDrempel\n- 15m 4:42-4:37/km Pace\n\nCool-down\n- 10m Z2 Pace\n\n15 min @ 4:37-4:42/km (Z4). Intensiteit vast\, kort.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-139@trainingsplan
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261025
+UID:schema-v13-139@trainingsplan
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261024
 SUMMARY:Rust
 DESCRIPTION:
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-140@trainingsplan
+UID:schema-v13-140@trainingsplan
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261025
+SUMMARY:Duurloop
+DESCRIPTION:Warm-up\n- 45m Z2 Pace\n\nMarathontempo blok\n- 30m 5:30-5:20/km Pace\n\nUitlopen\n- 15m Z2 Pace\n\n~18 km. 1x6 km @ 5:20-5:30/km MT.
+CATEGORIES:Run
+END:VEVENT
+BEGIN:VEVENT
+UID:schema-v13-141@trainingsplan
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261026
 SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 90m Z2 Pace\n\n~16 km easy zone 2. Laatste langere run.
+DESCRIPTION:Warm-up\n- 20m Z1 Pace\n\nZeer rustig.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-141@trainingsplan
+UID:schema-v13-142@trainingsplan
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
-SUMMARY:Easy run
-DESCRIPTION:Warm-up\n- 15m Z1 Pace\n\nZeer rustig.
-CATEGORIES:Run
-END:VEVENT
-BEGIN:VEVENT
-UID:schema-v12-142@trainingsplan
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261028
 SUMMARY:Rust
 DESCRIPTION:Mobiliteit en stretching.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-143@trainingsplan
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261029
+UID:schema-v13-143@trainingsplan
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261028
 SUMMARY:Activatie marathon
-DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nActivatie 4x\n- 2m 5:25/km Pace\n- 90s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n4x400mtr @ marathontempo. Benen wakker maken.
+DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nActivatie 4x\n- 2m 5:25/km Pace\n- 90s Z2 Pace\n\nCool-down\n- 10m Z2 Pace\n\n4x400mtr @ 5:20-5:25/km MT. Benen wakker maken.
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-144@trainingsplan
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261030
+UID:schema-v13-144@trainingsplan
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261029
 SUMMARY:Rust
 DESCRIPTION:Gear klaarzetten\, voeding plannen.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-145@trainingsplan
+UID:schema-v13-145@trainingsplan
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261030
 SUMMARY:Rustig joggen
@@ -1165,17 +1165,17 @@ DESCRIPTION:Warm-up\n- 10m Z1 Pace\n\nStrides 4x\n- 20s 5:25/km Pace\n- 60s Z1 P
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-146@trainingsplan
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261101
+UID:schema-v13-146@trainingsplan
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261031
 SUMMARY:Rust
 DESCRIPTION:Koolhydraten laden\, vroeg naar bed.
 CATEGORIES:Rest
 END:VEVENT
 BEGIN:VEVENT
-UID:schema-v12-147@trainingsplan
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261102
+UID:schema-v13-147@trainingsplan
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261101
 SUMMARY:RACE DAY - MARATHON SUB-3:50
 DESCRIPTION:Warm-up\n- 15m Z2 Pace\n\nRace\n- 225m 5:30-5:20/km Pace\n\nStrategie:\nkm 0-10 @ 5:30/km conservatief\nkm 10-30 @ 5:25/km ritme\nkm 30-42 alles geven\n\nDoel: sub-3:50 (5:25/km gemiddeld).
 CATEGORIES:Run

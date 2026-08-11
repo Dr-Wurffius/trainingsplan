@@ -57,8 +57,7 @@ UID:schema-v13-2-007@trainingsplan
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260614
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~15 km
-- 91m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~15 km\n- 91m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -114,14 +113,7 @@ UID:schema-v13-2-014@trainingsplan
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260621
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~17 km met 1x15 min MT
-- 44m Z2 Pace
-
-Marathontempo 1x
-- 14m 5:30-5:20/km Pace
-
-Uitlopen
-- 44m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~17 km met 1x15 min MT\n- 44m Z2 Pace\n\nMarathontempo 1x\n- 14m 5:30-5:20/km Pace\n\nUitlopen\n- 44m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -177,15 +169,7 @@ UID:schema-v13-2-021@trainingsplan
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260628
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~18 km met 2x10 min MT
-- 45m Z2 Pace
-
-Marathontempo 2x
-- 9m 5:30-5:20/km Pace
-- 10m Z2 Pace
-
-Uitlopen
-- 35m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~18 km met 2x10 min MT\n- 45m Z2 Pace\n\nMarathontempo 2x\n- 9m 5:30-5:20/km Pace\n- 10m Z2 Pace\n\nUitlopen\n- 35m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -241,15 +225,7 @@ UID:schema-v13-2-028@trainingsplan
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260705
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~19 km met 2x12 min MT
-- 46m Z2 Pace
-
-Marathontempo 2x
-- 11m 5:30-5:20/km Pace
-- 9m Z2 Pace
-
-Uitlopen
-- 36m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~19 km met 2x12 min MT\n- 46m Z2 Pace\n\nMarathontempo 2x\n- 11m 5:30-5:20/km Pace\n- 9m Z2 Pace\n\nUitlopen\n- 36m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -305,15 +281,7 @@ UID:schema-v13-2-035@trainingsplan
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260712
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~20 km met 2x15 min MT
-- 46m Z2 Pace
-
-Marathontempo 2x
-- 14m 5:30-5:20/km Pace
-- 9m Z2 Pace
-
-Uitlopen
-- 36m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~20 km met 2x15 min MT\n- 46m Z2 Pace\n\nMarathontempo 2x\n- 14m 5:30-5:20/km Pace\n- 9m Z2 Pace\n\nUitlopen\n- 36m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -369,14 +337,7 @@ UID:schema-v13-2-042@trainingsplan
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260719
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~18 km met 1x15 min MT — terugzakweek
-- 47m Z2 Pace
-
-Marathontempo 1x
-- 14m 5:30-5:20/km Pace
-
-Uitlopen
-- 47m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~18 km met 1x15 min MT — terugzakweek\n- 47m Z2 Pace\n\nMarathontempo 1x\n- 14m 5:30-5:20/km Pace\n\nUitlopen\n- 47m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -432,15 +393,7 @@ UID:schema-v13-2-049@trainingsplan
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260726
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~20 km met 2x15 min MT
-- 46m Z2 Pace
-
-Marathontempo 2x
-- 14m 5:30-5:20/km Pace
-- 9m Z2 Pace
-
-Uitlopen
-- 36m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~20 km met 2x15 min MT\n- 46m Z2 Pace\n\nMarathontempo 2x\n- 14m 5:30-5:20/km Pace\n- 9m Z2 Pace\n\nUitlopen\n- 36m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -496,15 +449,7 @@ UID:schema-v13-2-056@trainingsplan
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260802
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~22 km met 2x15 min MT
-- 52m Z2 Pace
-
-Marathontempo 2x
-- 14m 5:30-5:20/km Pace
-- 9m Z2 Pace
-
-Uitlopen
-- 43m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~22 km met 2x15 min MT\n- 52m Z2 Pace\n\nMarathontempo 2x\n- 14m 5:30-5:20/km Pace\n- 9m Z2 Pace\n\nUitlopen\n- 43m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -560,15 +505,7 @@ UID:schema-v13-2-063@trainingsplan
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260809
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~24 km met 2x15 min MT
-- 58m Z2 Pace
-
-Marathontempo 2x
-- 14m 5:30-5:20/km Pace
-- 9m Z2 Pace
-
-Uitlopen
-- 49m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~24 km met 2x15 min MT\n- 58m Z2 Pace\n\nMarathontempo 2x\n- 14m 5:30-5:20/km Pace\n- 9m Z2 Pace\n\nUitlopen\n- 49m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -624,15 +561,7 @@ UID:schema-v13-2-070@trainingsplan
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260816
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~26 km met 2x20 min MT
-- 59m Z2 Pace
-
-Marathontempo 2x
-- 18m 5:30-5:20/km Pace
-- 9m Z2 Pace
-
-Uitlopen
-- 50m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~26 km met 2x20 min MT\n- 59m Z2 Pace\n\nMarathontempo 2x\n- 18m 5:30-5:20/km Pace\n- 9m Z2 Pace\n\nUitlopen\n- 50m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -688,14 +617,7 @@ UID:schema-v13-2-077@trainingsplan
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260823
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~22 km met 1x20 min MT — terugzak
-- 57m Z2 Pace
-
-Marathontempo 1x
-- 18m 5:30-5:20/km Pace
-
-Uitlopen
-- 57m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~22 km met 1x20 min MT — terugzak\n- 57m Z2 Pace\n\nMarathontempo 1x\n- 18m 5:30-5:20/km Pace\n\nUitlopen\n- 57m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -751,8 +673,7 @@ UID:schema-v13-2-084@trainingsplan
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260830
 SUMMARY:Easy run
-DESCRIPTION:Zone 2 easy run ~16 km — benen fris voor race
-- 97m Z2 Pace
+DESCRIPTION:Zone 2 easy run ~16 km — benen fris voor race\n- 97m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -864,8 +785,7 @@ UID:schema-v13-2-098@trainingsplan
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260913
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~22 km — puur easy herstel na race
-- 134m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~22 km — puur easy herstel na race\n- 134m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -921,15 +841,7 @@ UID:schema-v13-2-105@trainingsplan
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260920
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~26 km met 2x5 km MT in tweede helft
-- 49m Z2 Pace
-
-Marathontempo 2x
-- 27m 5:30-5:20/km Pace
-- 6m Z2 Pace
-
-Uitlopen
-- 43m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~26 km met 2x5 km MT in tweede helft\n- 49m Z2 Pace\n\nMarathontempo 2x\n- 27m 5:30-5:20/km Pace\n- 6m Z2 Pace\n\nUitlopen\n- 43m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -985,15 +897,7 @@ UID:schema-v13-2-112@trainingsplan
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260927
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~29 km met 2x6 km MT in tweede helft
-- 52m Z2 Pace
-
-Marathontempo 2x
-- 33m 5:30-5:20/km Pace
-- 6m Z2 Pace
-
-Uitlopen
-- 46m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~29 km met 2x6 km MT in tweede helft\n- 52m Z2 Pace\n\nMarathontempo 2x\n- 33m 5:30-5:20/km Pace\n- 6m Z2 Pace\n\nUitlopen\n- 46m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -1049,14 +953,7 @@ UID:schema-v13-2-119@trainingsplan
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261004
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~23 km met 1x8 km MT — terugzakweek
-- 46m Z2 Pace
-
-Marathontempo 1x
-- 43m 5:30-5:20/km Pace
-
-Uitlopen
-- 46m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~23 km met 1x8 km MT — terugzakweek\n- 46m Z2 Pace\n\nMarathontempo 1x\n- 43m 5:30-5:20/km Pace\n\nUitlopen\n- 46m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -1112,14 +1009,7 @@ UID:schema-v13-2-126@trainingsplan
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261011
 SUMMARY:Duurloop SLEUTELWEEK
-DESCRIPTION:SLEUTELWEEK — Zone 2 duurloop ~33 km met ~13 km MT in tweede helft
-- 73m Z2 Pace
-
-Marathontempo 1x
-- 70m 5:30-5:20/km Pace
-
-Uitlopen
-- 49m Z2 Pace
+DESCRIPTION:SLEUTELWEEK — Zone 2 duurloop ~33 km met ~13 km MT in tweede helft\n- 73m Z2 Pace\n\nMarathontempo 1x\n- 70m 5:30-5:20/km Pace\n\nUitlopen\n- 49m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -1175,15 +1065,7 @@ UID:schema-v13-2-133@trainingsplan
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261018
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~24 km met 2x5 km MT — laatste grote duurloop
-- 43m Z2 Pace
-
-Marathontempo 2x
-- 27m 5:30-5:20/km Pace
-- 6m Z2 Pace
-
-Uitlopen
-- 36m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~24 km met 2x5 km MT — laatste grote duurloop\n- 43m Z2 Pace\n\nMarathontempo 2x\n- 27m 5:30-5:20/km Pace\n- 6m Z2 Pace\n\nUitlopen\n- 36m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
@@ -1239,14 +1121,7 @@ UID:schema-v13-2-140@trainingsplan
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
 SUMMARY:Duurloop
-DESCRIPTION:Zone 2 duurloop ~18 km met 1x6 km MT — taper
-- 36m Z2 Pace
-
-Marathontempo 1x
-- 33m 5:30-5:20/km Pace
-
-Uitlopen
-- 36m Z2 Pace
+DESCRIPTION:Zone 2 duurloop ~18 km met 1x6 km MT — taper\n- 36m Z2 Pace\n\nMarathontempo 1x\n- 33m 5:30-5:20/km Pace\n\nUitlopen\n- 36m Z2 Pace
 CATEGORIES:Run
 END:VEVENT
 BEGIN:VEVENT
